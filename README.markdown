@@ -1,8 +1,8 @@
-## Demo d'un outils de "Todo list" en php et html5
+## Demo d'un outil de "Todo list" en php et html5
 
 ![screenshot](./screenshot.png "scnsht")
 
-Mise en œuvre du principe de base des websockets dans un prototype d'application de "todo lsit". Plusieurs clients partagent une même liste qui se met a jour de manière dynamique et peuvent rajouter des tâches.
+Mise en œuvre du principe de base des websockets dans un prototype d'application de "todo list". Plusieurs clients partagent une même liste qui se met à jour de manière asynchrone.
 
 ### Principe de fonctionnement:
 
